@@ -1,0 +1,35 @@
+#nameheading {
+    font-family: 'Poiret One', cursive;
+    font-size: 80px;
+    text-align: center;}
+#navbar {
+    font-size: 28px;
+    text-align: center;
+    font-family: 'Josefin Slab', 'Trebuchet MS', 'Lucida Sans Unicode';
+}
+
+a:link {
+   text-decoration: none;
+   color: gray;   
+}
+
+a:visited {
+    color: darkgray;
+}
+
+body {
+    background-color: whitesmoke;
+    text-align: center;
+    font-family: 'Josefin Slab', 'Trebuchet MS', 'Lucida Sans Unicode';
+    font-size: 30pt;
+}
+.box {
+    margin: auto;
+    width: 50%;
+    height: 750px;
+    padding: 10px;
+    padding-top: 50px;
+    border-color: black;
+    border-style: solid;
+    border-width: .5px;
+}
